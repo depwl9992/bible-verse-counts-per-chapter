@@ -1,7 +1,10 @@
 [
     {
-        "abbr": "Gen",
-        "book": "Genesis",
+		"alias": ["Genesis","Gen","Ge","Gn","Bereishit","Sefer Bereishit"],
+		"bgw":"Genesis",
+		"b4u":"",
+		"yv":"GEN",
+		"book": "Genesis",
         "chapters": [
             {
                 "chapter": "1",
@@ -206,7 +209,10 @@
         ]
     },
     {
-        "abbr": "Exod",
+        "alias": ["Exodus","Exod","Exo","Ex","Shemot","Sefer Shemot"],
+		"bgw":"Exodus",
+		"b4u":"",
+		"yv":"EXO",
         "book": "Exodus",
         "chapters": [
             {
@@ -372,7 +378,10 @@
         ]
     },
     {
-        "abbr": "Lev",
+        "alias": ["Leviticus","Lev","Le","Vayikra","Sefer Vayikra"],
+		"bgw":"Leviticus",
+		"b4u":"",
+		"yv":"LEV",
         "book": "Leviticus",
         "chapters": [
             {
@@ -486,7 +495,10 @@
         ]
     },
     {
-        "abbr": "Num",
+        "alias": ["Numbers","Num","Nu","Nm","Bemidbar","Sefer Bemidbar"],
+		"bgw":"Numbers",
+		"b4u":"",
+		"yv":"NUM",
         "book": "Numbers",
         "chapters": [
             {
@@ -636,7 +648,10 @@
         ]
     },
     {
-        "abbr": "Deut",
+        "alias": ["Deuteronomy","Deut","Dt","Devarim","Sefer Devarim"],
+		"bgw":"Deuteronomy",
+		"b4u":"",
+		"yv":"DEU",
         "book": "Deuteronomy",
         "chapters": [
             {
@@ -778,7 +793,10 @@
         ]
     },
     {
-        "abbr": "Josh",
+        "alias": ["Joshua","Josh","Jos","Yehoshua"],
+		"bgw":"Joshua",
+		"b4u":"",
+		"yv":"JOS",
         "book": "Joshua",
         "chapters": [
             {
@@ -880,7 +898,10 @@
         ]
     },
     {
-        "abbr": "Judg",
+        "alias": ["Judges","Judg","Jdg","Jg","Shoftim"],
+		"bgw":"Judges",
+		"b4u":"",
+		"yv":"JDG",
         "book": "Judges",
         "chapters": [
             {
@@ -970,7 +991,10 @@
         ]
     },
     {
-        "abbr": "Ruth",
+        "alias": ["Ruth","Ru"],
+		"bgw":"Ruth",
+		"b4u":"",
+		"yv":"RUT",
         "book": "Ruth",
         "chapters": [
             {
@@ -992,7 +1016,10 @@
         ]
     },
     {
-        "abbr": "1Sam",
+        "alias": ["1 Samuel","1Sam","1 Sam","I Samuel","First Samuel"],
+		"bgw":"1%20Samuel",
+		"b4u":"",
+		"yv":"1SA",
         "book": "1 Samuel",
         "chapters": [
             {
@@ -1122,7 +1149,10 @@
         ]
     },
     {
-        "abbr": "2Sam",
+        "alias": ["2 Samuel","2Sam","2 Sam","II Samuel","Second Samuel"],
+		"bgw":"2%20Samuel",
+		"b4u":"",
+		"yv":"2SA",
         "book": "2 Samuel",
         "chapters": [
             {
@@ -1224,7 +1254,10 @@
         ]
     },
     {
-        "abbr": "1Kgs",
+        "alias": ["1 Kings","1Kgs","1 Kgs","I Kings","First Kings"],
+		"bgw":"1%20Kings",
+		"b4u":"",
+		"yv":"1KI",
         "book": "1 Kings",
         "chapters": [
             {
@@ -1318,7 +1351,10 @@
         ]
     },
     {
-        "abbr": "2Kgs",
+        "alias": ["2 Kings","2Kgs","2 Kgs","II Kings","Second Kings"],
+		"bgw":"2%20Kings",
+		"b4u":"",
+		"yv":"2KI",
         "book": "2 Kings",
         "chapters": [
             {
@@ -1424,7 +1460,10 @@
         ]
     },
     {
-        "abbr": "1Chr",
+        "alias": ["1 Chronicles","1Chr","1 Chr","I Chronicles","First Chronicles"],
+		"bgw":"1%20Chronicles",
+		"b4u":"",
+		"yv":"1CH",
         "book": "1 Chronicles",
         "chapters": [
             {
@@ -1546,7 +1585,10 @@
         ]
     },
     {
-        "abbr": "2Chr",
+        "alias": ["2 Chronicles","2Chr","2 Chr","II Chronicles","Second Chronicles"],
+		"bgw":"2%20Chronicles",
+		"b4u":"",
+		"yv":"2CH",
         "book": "2 Chronicles",
         "chapters": [
             {
@@ -1696,7 +1738,10 @@
         ]
     },
     {
-        "abbr": "Ezra",
+        "alias": ["Ezra","Ezr"],
+		"bgw":"Ezra",
+		"b4u":"",
+		"yv":"EZR",
         "book": "Ezra",
         "chapters": [
             {
@@ -1742,7 +1787,10 @@
         ]
     },
     {
-        "abbr": "Neh",
+        "alias": ["Nehemiah","Neh","Ne"],
+		"bgw":"Nehemiah",
+		"b4u":"",
+		"yv":"NEH",
         "book": "Nehemiah",
         "chapters": [
             {
@@ -1800,7 +1848,10 @@
         ]
     },
     {
-        "abbr": "Esth",
+        "alias": ["Esther","Esth","Est","Es"],
+		"bgw":"Esther",
+		"b4u":"",
+		"yv":"EST",
         "book": "Esther",
         "chapters": [
             {
@@ -1846,7 +1897,10 @@
         ]
     },
     {
-        "abbr": "Job",
+        "alias": ["Job"],
+		"bgw":"Job",
+		"b4u":"",
+		"yv":"JOB",
         "book": "Job",
         "chapters": [
             {
@@ -2020,7 +2074,10 @@
         ]
     },
     {
-        "abbr": "Ps",
+        "alias": ["Psalms","Psalm","Ps","Psa","Psm","Tehillim"],
+		"bgw":"Psalm",
+		"b4u":"",
+		"yv":"PSA",
         "book": "Psalm",
         "chapters": [
             {
@@ -2626,7 +2683,10 @@
         ]
     },
     {
-        "abbr": "Prov",
+        "alias": ["Proverbs","Prov","Pr","Mishlei"],
+		"bgw":"Proverbs",
+		"b4u":"",
+		"yv":"PRO",
         "book": "Proverbs",
         "chapters": [
             {
@@ -2756,7 +2816,10 @@
         ]
     },
     {
-        "abbr": "Eccl",
+        "alias": ["Ecclesiastes","Eccl","Ecc","Qoheleth","Kohelet"],
+		"bgw":"Ecclesiastes",
+		"b4u":"",
+		"yv":"ECC",
         "book": "Ecclesiastes",
         "chapters": [
             {
@@ -2810,8 +2873,11 @@
         ]
     },
     {
-        "abbr": "Song",
-        "book": "Song of Solomon",
+		"alias": ["Song of Solomon","Song of Songs","Song","SOS","Canticles","Shir Hashirim"],
+		"bgw":"Song%20of%20Solomon",
+		"b4u":"",
+		"yv":"SNG",
+		"book": "Song of Solomon",
         "chapters": [
             {
                 "chapter": "1",
@@ -2848,7 +2914,10 @@
         ]
     },
     {
-        "abbr": "Isa",
+        "alias": ["Isaiah","Isa","Is","Yeshayahu"],
+		"bgw":"Isaiah",
+		"b4u":"",
+		"yv":"ISA",
         "book": "Isaiah",
         "chapters": [
             {
@@ -3118,7 +3187,10 @@
         ]
     },
     {
-        "abbr": "Jer",
+        "alias": ["Jeremiah","Jer","Jr","Yirmeyahu"],
+		"bgw":"Jeremiah",
+		"b4u":"",
+		"yv":"JER",
         "book": "Jeremiah",
         "chapters": [
             {
@@ -3332,7 +3404,10 @@
         ]
     },
     {
-        "abbr": "Lam",
+        "alias": ["Lamentations","Lam","La","Eikhah"],
+		"bgw":"Lamentations",
+		"b4u":"",
+		"yv":"LAM",
         "book": "Lamentations",
         "chapters": [
             {
@@ -3358,7 +3433,10 @@
         ]
     },
     {
-        "abbr": "Ezek",
+        "alias": ["Ezekiel","Ezek","Eze","Yechezkel"],
+		"bgw":"Ezekiel",
+		"b4u":"",
+		"yv":"EZK",
         "book": "Ezekiel",
         "chapters": [
             {
@@ -3556,7 +3634,10 @@
         ]
     },
     {
-        "abbr": "Dan",
+        "alias": ["Daniel","Dan","Dn"],
+		"bgw":"Daniel",
+		"b4u":"",
+		"yv":"DAN",
         "book": "Daniel",
         "chapters": [
             {
@@ -3610,7 +3691,10 @@
         ]
     },
     {
-        "abbr": "Hos",
+        "alias": ["Hosea","Hos","Ho"],
+		"bgw":"Hosea",
+		"b4u":"",
+		"yv":"HOS",
         "book": "Hosea",
         "chapters": [
             {
@@ -3672,7 +3756,10 @@
         ]
     },
     {
-        "abbr": "Joel",
+        "alias": ["Joel","Joe","Jl"],
+		"bgw":"Joel",
+		"b4u":"",
+		"yv":"JOL",
         "book": "Joel",
         "chapters": [
             {
@@ -3690,7 +3777,10 @@
         ]
     },
     {
-        "abbr": "Amos",
+        "alias": ["Amos","Am"],
+		"bgw":"Amos",
+		"b4u":"",
+		"yv":"AMO",
         "book": "Amos",
         "chapters": [
             {
@@ -3732,7 +3822,10 @@
         ]
     },
     {
-        "abbr": "Obad",
+        "alias": ["Obadiah","Obad","Ob"],
+		"bgw":"Obadiah",
+		"b4u":"",
+		"yv":"OBA",
         "book": "Obadiah",
         "chapters": [
             {
@@ -3742,7 +3835,10 @@
         ]
     },
     {
-        "abbr": "Jonah",
+        "alias": ["Jonah","Jon","Jnh"],
+		"bgw":"Jonah",
+		"b4u":"",
+		"yv":"JON",
         "book": "Jonah",
         "chapters": [
             {
@@ -3764,7 +3860,10 @@
         ]
     },
     {
-        "abbr": "Mic",
+        "alias": ["Micah","Mic","Mc"],
+		"bgw":"Micah",
+		"b4u":"",
+		"yv":"MIC",
         "book": "Micah",
         "chapters": [
             {
@@ -3798,7 +3897,10 @@
         ]
     },
     {
-        "abbr": "Nah",
+        "alias": ["Nahum","Nah","Na"],
+		"bgw":"Nahum",
+		"b4u":"",
+		"yv":"NAM",
         "book": "Nahum",
         "chapters": [
             {
@@ -3816,7 +3918,10 @@
         ]
     },
     {
-        "abbr": "Hab",
+        "alias": ["Habakkuk","Hab","Hbk","Hb"],
+		"bgw":"Habakkuk",
+		"b4u":"",
+		"yv":"HAB",
         "book": "Habakkuk",
         "chapters": [
             {
@@ -3834,7 +3939,10 @@
         ]
     },
     {
-        "abbr": "Zeph",
+        "alias": ["Zephaniah","Zeph","Zep","Zph","Zp"],
+		"bgw":"Zephaniah",
+		"b4u":"",
+		"yv":"ZEP",
         "book": "Zephaniah",
         "chapters": [
             {
@@ -3852,7 +3960,10 @@
         ]
     },
     {
-        "abbr": "Hag",
+        "alias": ["Haggai","Hag","Hg"],
+		"bgw":"Haggai",
+		"b4u":"",
+		"yv":"HAG",
         "book": "Haggai",
         "chapters": [
             {
@@ -3866,7 +3977,10 @@
         ]
     },
     {
-        "abbr": "Zech",
+        "alias": ["Zechariah","Zech","Zec","Zch","Zc"],
+		"bgw":"Zechariah",
+		"b4u":"",
+		"yv":"ZEC",
         "book": "Zechariah",
         "chapters": [
             {
@@ -3928,7 +4042,10 @@
         ]
     },
     {
-        "abbr": "Mal",
+        "alias": ["Malachi","Mal","Ml"],
+		"bgw":"Malachi",
+		"b4u":"",
+		"yv":"MAL",
         "book": "Malachi",
         "chapters": [
             {
@@ -3950,7 +4067,10 @@
         ]
     },
     {
-        "abbr": "Matt",
+        "alias": ["Matthew","Matt","Mat","Mt"],
+		"bgw":"Matthew",
+		"b4u":"",
+		"yv":"MAT",
         "book": "Matthew",
         "chapters": [
             {
@@ -4068,7 +4188,10 @@
         ]
     },
     {
-        "abbr": "Mark",
+        "alias": ["Mark","Mrk","Mk","Mr"],
+		"bgw":"Mark",
+		"b4u":"",
+		"yv":"MRK",
         "book": "Mark",
         "chapters": [
             {
@@ -4138,7 +4261,10 @@
         ]
     },
     {
-        "abbr": "Luke",
+        "alias": ["Luke","Luk","Lk"],
+		"bgw":"Luke",
+		"b4u":"",
+		"yv":"LUK",
         "book": "Luke",
         "chapters": [
             {
@@ -4240,7 +4366,10 @@
         ]
     },
     {
-        "abbr": "John",
+        "alias": ["John","Jn","Jhn"],
+		"bgw":"John",
+		"b4u":"",
+		"yv":"JHN",
         "book": "John",
         "chapters": [
             {
@@ -4330,7 +4459,10 @@
         ]
     },
     {
-        "abbr": "Acts",
+        "alias": ["Acts","Act","Ac"],
+		"bgw":"Acts",
+		"b4u":"",
+		"yv":"ACT",
         "book": "Acts",
         "chapters": [
             {
@@ -4448,7 +4580,10 @@
         ]
     },
     {
-        "abbr": "Rom",
+        "alias": ["Romans","Rom","Ro","Rm"],
+		"bgw":"Romans",
+		"b4u":"",
+		"yv":"ROM",
         "book": "Romans",
         "chapters": [
             {
@@ -4518,7 +4653,10 @@
         ]
     },
     {
-        "abbr": "1Cor",
+        "alias": ["1 Corinthians","1Cor","1 Cor","I Corinthians","I Cor","First Corinthians"],
+		"bgw":"1%20Corinthians",
+		"b4u":"",
+		"yv":"1CO",
         "book": "1 Corinthians",
         "chapters": [
             {
@@ -4588,7 +4726,10 @@
         ]
     },
     {
-        "abbr": "2Cor",
+        "alias": ["2 Corinthians","2Cor","2 Cor","II Corinthians","II Cor","Second Corinthians"],
+		"bgw":"2%20Corinthians",
+		"b4u":"",
+		"yv":"2CO",
         "book": "2 Corinthians",
         "chapters": [
             {
@@ -4646,7 +4787,10 @@
         ]
     },
     {
-        "abbr": "Gal",
+        "alias": ["Galatians","Gal","Ga"],
+		"bgw":"Galatians",
+		"b4u":"",
+		"yv":"GAL",
         "book": "Galatians",
         "chapters": [
             {
@@ -4676,7 +4820,10 @@
         ]
     },
     {
-        "abbr": "Eph",
+        "alias": ["Ephesians","Eph","Ep"],
+		"bgw":"Ephesians",
+		"b4u":"",
+		"yv":"EPH",
         "book": "Ephesians",
         "chapters": [
             {
@@ -4706,7 +4853,10 @@
         ]
     },
     {
-        "abbr": "Phil",
+        "alias": ["Philippians","Phil","Php","Pp"],
+		"bgw":"Philippians",
+		"b4u":"",
+		"yv":"PHP",
         "book": "Philippians",
         "chapters": [
             {
@@ -4728,7 +4878,10 @@
         ]
     },
     {
-        "abbr": "Col",
+        "alias": ["Colossians","Col","Co"],
+		"bgw":"Colossians",
+		"b4u":"",
+		"yv":"COL",
         "book": "Colossians",
         "chapters": [
             {
@@ -4750,7 +4903,10 @@
         ]
     },
     {
-        "abbr": "1Thess",
+        "alias": ["1 Thessalonians","1Thess","1 Thess","1 Thes","I Thessalonians","I Thess","I Thes","First Thessalonians"],
+		"bgw":"1%20Thessalonians",
+		"b4u":"",
+		"yv":"1TH",
         "book": "1 Thessalonians",
         "chapters": [
             {
@@ -4776,7 +4932,10 @@
         ]
     },
     {
-        "abbr": "2Thess",
+        "alias": ["2 Thessalonians","2Thess","2 Thess","2 Thes","II Thessalonians","II Thess","II Thes","Second Thessalonians"],
+		"bgw":"2%20Thessalonians",
+		"b4u":"",
+		"yv":"2TH",
         "book": "2 Thessalonians",
         "chapters": [
             {
@@ -4794,7 +4953,10 @@
         ]
     },
     {
-        "abbr": "1Tim",
+        "alias": ["1 Timothy","1Tim","1 Tim","I Timothy","I Tim","First Timothy"],
+		"bgw":"1%20Timothy",
+		"b4u":"",
+		"yv":"1TI",
         "book": "1 Timothy",
         "chapters": [
             {
@@ -4824,7 +4986,10 @@
         ]
     },
     {
-        "abbr": "2Tim",
+        "alias": ["2 Timothy","2Tim","2 Tim","II Timothy","II Tim","Second Timothy"],
+		"bgw":"2%20Timothy",
+		"b4u":"",
+		"yv":"2TI",
         "book": "2 Timothy",
         "chapters": [
             {
@@ -4846,7 +5011,10 @@
         ]
     },
     {
-        "abbr": "Titus",
+        "alias": ["Titus","Tit"],
+		"bgw":"Titus",
+		"b4u":"",
+		"yv":"TIT",
         "book": "Titus",
         "chapters": [
             {
@@ -4864,7 +5032,10 @@
         ]
     },
     {
-        "abbr": "Phlm",
+        "alias": ["Philemon","Phlm","Phm"],
+		"bgw":"Philemon",
+		"b4u":"",
+		"yv":"PHM",
         "book": "Philemon",
         "chapters": [
             {
@@ -4874,7 +5045,10 @@
         ]
     },
     {
-        "abbr": "Heb",
+        "alias": ["Hebrews","Heb"],
+		"bgw":"Hebrews",
+		"b4u":"",
+		"yv":"HEB",
         "book": "Hebrews",
         "chapters": [
             {
@@ -4932,7 +5106,10 @@
         ]
     },
     {
-        "abbr": "Jas",
+        "alias": ["James","Jas","Jm"],
+		"bgw":"James",
+		"b4u":"",
+		"yv":"JAS",
         "book": "James",
         "chapters": [
             {
@@ -4958,7 +5135,10 @@
         ]
     },
     {
-        "abbr": "1Pet",
+        "alias": ["1 Peter","1Pet","1 Pet","I Peter","I Pet","First Peter"],
+		"bgw":"1%20Peter",
+		"b4u":"",
+		"yv":"1PE",
         "book": "1 Peter",
         "chapters": [
             {
@@ -4984,7 +5164,10 @@
         ]
     },
     {
-        "abbr": "2Pet",
+        "alias": ["2 Peter","2Pet","2 Pet","II Peter","II Pet","Second Peter"],
+		"bgw":"2%20Peter",
+		"b4u":"",
+		"yv":"2PE",
         "book": "2 Peter",
         "chapters": [
             {
@@ -5002,7 +5185,10 @@
         ]
     },
     {
-        "abbr": "1John",
+        "alias": ["1 John","1Jn","1 Jn","I John","I Jn","First John"],
+		"bgw":"1%20John",
+		"b4u":"",
+		"yv":"1JN",
         "book": "1 John",
         "chapters": [
             {
@@ -5028,7 +5214,10 @@
         ]
     },
     {
-        "abbr": "2John",
+        "alias": ["2 John","2Jn","2 Jn","II John","II Jn","Second John"],
+		"bgw":"2%20John",
+		"b4u":"",
+		"yv":"2JN",
         "book": "2 John",
         "chapters": [
             {
@@ -5038,7 +5227,10 @@
         ]
     },
     {
-        "abbr": "3John",
+        "alias": ["3 John","3Jn","3 Jn","III John","III Jn","Third John"],
+		"bgw":"3%20John",
+		"b4u":"",
+		"yv":"3JN",
         "book": "3 John",
         "chapters": [
             {
@@ -5048,7 +5240,10 @@
         ]
     },
     {
-        "abbr": "Jude",
+        "alias": ["Jude","Jud"],
+		"bgw":"Jude",
+		"b4u":"",
+		"yv":"JUD",
         "book": "Jude",
         "chapters": [
             {
@@ -5058,7 +5253,10 @@
         ]
     },
     {
-        "abbr": "Rev",
+		"alias": ["Revelation","Rev","Re","The Revelation","Apocalypse"],
+		"bgw":"Revelation",
+		"b4u":"",
+		"yv":"REV",
         "book": "Revelation",
         "chapters": [
             {
